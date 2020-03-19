@@ -17,6 +17,8 @@ We used various tranfer learning techniques for creating a first-cut solution to
 
 # Dataset: 🙏
 
+![Dataset](![Corona Virus](https://github.com/smaranjitghose/CovidNet/blob/master/assets/covid_19_dataset.png)
+
 The dataset used for this primararily curated from [COVID-19 Database](https://www.sirm.org/category/senza-categoria/covid-19/), [Radiopedia](https://radiopaedia.org/articles/covid-19-2?lang=us)for the covid-19 infected chest X-ray images and [Chest X-Ray Images (Pneumonia) from Kaggle ](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) for the non-infected chest X-ray images, as provided by [Adrian Rosebrock in his blog for the same](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 
  # Further Tasks: 🏗
