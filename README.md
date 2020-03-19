@@ -15,16 +15,17 @@ We used various tranfer learning techniques for creating a first-cut solution to
 |------|--------|--------------|--------|
 
 
-#### Dataset: 🙏
+# Dataset: 🙏
 
-The dataset used for this primararily curated from [COVID-19 Database](https://www.sirm.org/category/senza-categoria/covid-19/), [Radiopedia](https://radiopaedia.org/articles/covid-19-2?lang=us)for the covid-19 infected chest X-ray images and [Chest X-Ray Images (Pneumonia) from Kaggle ](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) for the non-infected chest X-ray images, as provided by [Adrian Rosebrock in his blog the same](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
+The dataset used for this primararily curated from [COVID-19 Database](https://www.sirm.org/category/senza-categoria/covid-19/), [Radiopedia](https://radiopaedia.org/articles/covid-19-2?lang=us)for the covid-19 infected chest X-ray images and [Chest X-Ray Images (Pneumonia) from Kaggle ](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) for the non-infected chest X-ray images, as provided by [Adrian Rosebrock in his blog for the same](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 
  # Further Tasks: 🏗
-- Curating a dataset with more number of chest x-ray images for COVID-19 infection as well as ensuring better medical image quality
+- Curating a dataset with larger number of chest x-ray images for COVID-19 infection as well as ensuring better medical image quality
 - Retraining the models on the same
 - Obtaining reviews by medical professionals and tune the work as per feedback
 - Extending the work to chest CT-scan images
 - Depolying it in an end to end web app to be used by medical professionals
+- Taking into account other factors for analyzing infection as suggested by medical professionals
  
  # License ⚙
  
