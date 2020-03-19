@@ -7,7 +7,7 @@ Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe ac
 
 ## Our attempt #1 👨‍🏭 
 
-COVID-19 is known to attack 🤺 the epithelial cells that line our respiratory tract. Hence X-rays are used to analyze the health of a patient’s lungs. However given the large number of people infected everyday , the scarcity of radiology experts and the time taken for diagnosis for each patient poses an acute delay that could turn fatal for many. Thus we attempt to create an automatic analysis system👨‍💻 to resolve the situation.
+COVID-19 is known to attack 🤺 the epithelial cells that line our respiratory tract. Hence X-rays are used to analyze the health of a patient’s lungs. However in the current scenario hospitals are overwhelmed with the number of cases every single day and  the scarcity of radiology experts and the time taken for diagnosis for each patient sums up to an acute delay issue. Thus we attempt to create an automatic analysis system👨‍💻 to resolve the situation.
 
 We used various tranfer learning techniques for creating a first-cut solution to this problem:
 
@@ -22,10 +22,10 @@ The dataset used for this primararily curated from [COVID-19 Database](https://w
  # Further Tasks: 🏗
 - Curating a dataset with larger number of chest x-ray images for COVID-19 infection as well as ensuring better medical image quality
 - Retraining the models on the same
-- Obtaining reviews by medical professionals and tune the work as per feedback
+- Obtaining reviews by medical professionals🩺 and tune the work as per feedback
 - Extending the work to chest CT-scan images
 - Depolying it in an end to end web app to be used by medical professionals
-- Taking into account other factors for analyzing infection as suggested by medical professionals
+- Taking into account other factors for analyzing infection as suggested by medical professionals🩺 
  
  # License ⚙
  
