@@ -11,8 +11,9 @@ COVID-19 is known to attack 🤺 the epithelial cells that line our respiratory 
 
 We used various tranfer learning techniques for creating a first-cut solution to this problem:
 
-|Method|Notebook|Model Weights|Accuracy|
-|------|--------|--------------|--------|
+|Method|Notebook|Accuracy|Sensivity|Specificity|
+|MobileNetV2|[Link](https://github.com/smaranjitghose/CovidNet/blob/master/coronanet2.ipynb)|90%|80%|100%|
+|VGG16|[Link][Link](https://github.com/smaranjitghose/CovidNet/blob/master/coronanet1.ipynb)|70%|80%|60%|
 
 
 # Dataset: 🙏
