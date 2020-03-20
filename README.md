@@ -14,7 +14,7 @@ We used various tranfer learning techniques for creating a first-cut solution to
 |Method|Notebook|Accuracy|Sensivity|Specificity|
 |------|---------|--------|---------|------------|
 |MobileNetV2|[Link](https://github.com/smaranjitghose/CovidNet/blob/master/coronanet2.ipynb)|90%|80%|100%|
-|VGG16|[Link][Link](https://github.com/smaranjitghose/CovidNet/blob/master/coronanet1.ipynb)|70%|80%|60%|
+|VGG16|[Link](https://github.com/smaranjitghose/CovidNet/blob/master/coronanet1.ipynb)|70%|80%|60%|
 
 
 # Dataset: 🙏
